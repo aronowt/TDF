@@ -1,5 +1,11 @@
 # Apex Test Data Factory
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/aronowt/TDF/edit/master/deploy.png">
+</a>
+
+
 
 <p align="center"><img src ="/docs/assets/TDF.png" width="400"/></p>
 
